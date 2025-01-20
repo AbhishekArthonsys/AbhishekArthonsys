@@ -17,7 +17,7 @@ Welcome to my GitHub profile! I'm a dedicated programmer with expertise in build
 🔗 [**Project 1: Awesome Web App**](https://github.com/Anode-Labz/anode-admin)
 🌟 A full-stack web application built with Django.
 
-🔗 [**Project 2: API Service**](https://github.com/yourusername/api-service](https://github.com/Anode-Labz/anode-apis)  
+🔗 [**Project 2: API Service**](https://github.com/Anode-Labz/anode-apis)  
 🌟 Scalable and efficient RESTful API with authentication and caching.
 
 🔗 [**Project 3: Custom Dashboard**](https://github.com/Anode-Labz/anode-admin)  
