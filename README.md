@@ -74,7 +74,7 @@ Welcome to my GitHub profile! I'm a dedicated programmer with expertise in build
 
 ## 💬 Connect With Me
 - 📧 Email: [abhishek.rathore.programmer@gmail.com](mailto:abhishek.rathore.programmer@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/abhishekrathore]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/abhishek-rathore-a18a261b7))  
+- 💼 LinkedIn: [linkedin.com/in/abhishek-rathore-a18a261b7]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/abhishek-rathore-a18a261b7))  
 - 🌐 Portfolio: [programmer-abhishek.com](https://programmer-abhishek.com)
 
 ---
