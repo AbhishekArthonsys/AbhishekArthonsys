@@ -14,41 +14,47 @@ Welcome to my GitHub profile! I'm a dedicated programmer with expertise in build
 ---
 
 ## 🚀 Projects
-🔗 [**Project 1: Awesome Web App**](https://github.com/Anode-Labz/anode-admin)
+🔗 [**Project 1:Daylight Admin**](https://github.com/Anode-Labz/anode-admin)
 🌟 A full-stack web application built with Django.
 
-🔗 [**Project 2: API Service**](https://github.com/Anode-Labz/anode-apis)  
+🔗 [**Project 2: Daylight Rest Apis**](https://github.com/Anode-Labz/anode-apis)  
 🌟 Scalable and efficient RESTful API with authentication and caching.
 
-🔗 [**Project 3: Custom Dashboard**](https://github.com/Anode-Labz/anode-admin)  
+🔗 [**Project 3: Custom Dashboad**](https://github.com/Anode-Labz/anode-admin)  
 🌟 Interactive dashboard for visualizing real-time data.
 
 🔗 [**Project 4: GraphQL**](https://github.com/Anode-Labz/anode-graphql)  
 🌟 Scalable and efficient GraphQl API with authentication and caching.
 
-🔗 [**Project 5: Awesome Web App**](https://github.com/Anode-Labz/daylight-web-auth-referral)  
+🔗 [**Project 5: Daylight Webauth referral**](https://github.com/Anode-Labz/daylight-web-auth-referral)  
 🌟 A front-end web application built with React JS.
 
-🔗 [**Project 6: Awesome Web App**](https://github.com/Anode-Labz/anode-energy-explorer)  
+🔗 [**Project 6: Network Explorer**](https://github.com/Anode-Labz/anode-energy-explorer)  
 🌟 A front-end web application built with React JS.
 
-🔗 [**Project 7: Awesome Web App**](https://github.com/TAP-NRG/tap-apps)  
+🔗 [**Project 7: Tap NRG**](https://github.com/TAP-NRG/tap-apps)  
 🌟 A full-stack web application built with React JS and Node JS.
 
-🔗 [**Project 8: Awesome Web App**](https://github.com/AbhishekArthonsys/str-proj)  
+🔗 [**Project 8: Syka Street**](https://github.com/AbhishekArthonsys/str-proj)  
 🌟 A full-stack web application built with Angular JS, Node JS, NestJs, NX and flutter.
 
-🔗 [**Project 9: Awesome Web App**](https://bitbucket.org/freshconsulting/teamnation-apps/src/master)  
+🔗 [**Project 9: Team Nation**](https://bitbucket.org/freshconsulting/teamnation-apps/src/master)  
 🌟 A full-stack web application built with React JS, Node JS.
 
-🔗 [**Project 10: Awesome Web App**](https://bitbucket.org/arthonsys-react-js/systematic_repo/src/master/)  
+🔗 [**Project 10: Systematic**](https://bitbucket.org/arthonsys-react-js/systematic_repo/src/master/)  
 🌟 A front-end web application built with React JS
 
-🔗 [**Project 11: Awesome Web App**](https://bitbucket.org/abhishekrathorearthonsys/there-apps/src/master/)  
+🔗 [**Project 11: There App**](https://bitbucket.org/abhishekrathorearthonsys/there-apps/src/master/)  
 🌟 A front-end web application built with React JS and Node JS
 
-🔗 [**Project 12: Awesome Web App**](https://bitbucket.org/abhishekrathorearthonsys/there-apps/src/master/)  
+🔗 [**Project 12: There App**](https://bitbucket.org/abhishekrathorearthonsys/there-apps/src/master/)  
 🌟 A Library built with Node JS for NPM Library
+
+🔗 [**Project 13: Alotmaintenace**](https://github.com/Arthonsys-dev/aLotMaintenance/src/development)  
+🌟 Full-stack app for CRM in django
+
+🔗 [**Project 14: StepInside**](https://github.com/Arthonsys-development/fly-view/src/develop/)  
+🌟 A full-stack web application for virtual 3d tour
 
 ---
 
@@ -68,7 +74,7 @@ Welcome to my GitHub profile! I'm a dedicated programmer with expertise in build
 
 ## 💬 Connect With Me
 - 📧 Email: [abhishek.rathore.programmer@gmail.com](mailto:abhishek.rathore.programmer@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/yourname](https://linkedin.com/in/yourname)  
+- 💼 LinkedIn: [linkedin.com/in/abhishekrathore]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/abhishek-rathore-a18a261b7))  
 - 🌐 Portfolio: [programmer-abhishek.com](https://programmer-abhishek.com)
 
 ---
